@@ -43,6 +43,9 @@ Show data below form. */}
 
     <UserForm />
 
+    {/* 4. Fetch API data using useEffect */}
+
+
     </>
   )
 }
